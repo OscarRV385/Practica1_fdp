@@ -1,0 +1,42 @@
+Cuestionario previo
+Que es github?
+Es una plataforma usada para crear proyectos abiertos de herramientas y aplicaciones, y se caracteriza demasiado por sus funciones colaborativas que ayudan a que cualquiera pueda interactuar y aportar su conocimiento para mejorar el código.
+Al ser el código de los proyectos abiertos, significa que puede ser descargado y revisado por cualquier usuario, lo que ayuda a mejorar el producto y crear ramificaciones a partir de él.
+Que es un navegador web?
+Es una aplicación de software que permite acceder a la World Wide Web. Con un navegador web, puede navegar en cualquier página web y visitar fácilmente otros sitios
+
+Desarrollo
+1.	Diferencias entre en disco SATA y el disco SAS.
+El disco SATA es el disco duro más utilizado actualmente, por lo fácil de instalar y la forma de construcción de las placas base, pueden ir a un máximo de 7000 rpm, mientras que en un SAS parten de las 10000 rpm, un SAS necesita su propio controlador, por lo que es más recomendable para un servidor empresarial y no para ordenadores personales. La mayor diferencia es en la capacidad de almacenamiento, en la actualidad algunos SATA pueden almacenar hasta 18 TB, mientras la capacidad de algunos SAS apenas alcanzan los 2 TB.
+2.	Diferencias entre el servidor, el Workstation y una pc gamer
+Los servidores proporcionan servicios esenciales a través de una red, este realiza todas las solicitudes que le den las computadoras cliente. Una Workstation es un ordenador de alto rendimiento, es cual está diseñado para poder realizar tareas específicas, tales como el diseño gráfico, edición de videos, programación de juegos, etc. Y una PC gamer es un ordenador que se basa en tener un alto nivel gráfico y capacidad de procesamiento, para poder sacar el mejor rendimiento en videojuegos.
+3.	Diferencias entre el procesador Intel y AMD
+Tienen arquitecturas de producción muy diferentes, en algunos momentos varios usuarios se quejaban de un sobrecalentamiento de los AMD, comúnmente cuando se les hace overclocking, pero con un buen sistema de refrigerado esto se controla, en el caso de Intel no ha habido demasiadas quejas. En si el elegir un procesador va a depender demasiado de que modelo se trate y cual sería su competencia directa en la otra marca, para luego buscar test acerca de estos y ver cual tuvo un mejor rendimiento.
+4.	Diferencias entre un servidor Apache y un IIS
+Apache es un software que se ejecuta en un servidor, es multiplataforma y funciona tanto en servidores UNIX como Windows. Y el servidor IIS es un servidor web exclusivo de Microsoft. Apache usa host virtuales para cada página web, en cambio ISS no lo hace. 
+5.	¿Cuál es el mejor navegador?
+Depende de cuales sean tus necesidades y el tipo de interfaz que prefieras y el tipo de dispositivo que tengas, actualmente los más populares son Google Chrome, Firefox, opera y Microsoft Edge, tendrías que probar estos y otras alternativas como brave para ver cual es el que satisface de mejor forma tus necesidades.
+6.	¿Cómo se puede minar bitcoin?
+Es un proceso tardado, y consiste en encontrar los valores del hash de un bloque de la criptomoneda, y esto se puede lograr adquiriendo todo el software necesario para poder minar, el cual es caro, o hacer cloud mining em la cual nuestro ordenador no hace el trabajo pesado, una vez que estas estén minadas, sigue elegir una wallet para que ahí se depositen nuestras recompensas.
+7.	¿Cómo se puede minar DogeCoin?
+De la misma forma que bitcoin, ya que estas se hacen por medio de transacciones en la blockchain.
+8.	¿Defectos de la PS5?
+No tiene como tal defectos, ya que desde que salió resulto ser una buena consola, si acaso el único detalle seria que ocupa demasiado espacio, pero fuera de eso es una consola muy potente con muy buen rendimiento.
+9.	¿Defectos de XBOX series X?
+Tiene pocos defectos, y uno de ellos podría ser el tamaño y la forma, sin embargo resulta ser una consola potente, y uno de los fallos más recientes ha sido que los controles se desconectan sin razón aparente.
+10.	Defectos de la Pc Gamer
+No tiene defectos, sin embargo los componentes para poder armar una resultan ser caros, y esto es un impedimento para muchas personas. Sin embargo la experiencia y jugabilidad es mucho mas placentera y emocionante que en las consolas.
+11.	¿Cómo instalar Linux?
+Ingresas al sitio web de Linux, eliges la versión que quieres descargar, y das en el botón de descargar, le das los permisos solicitados para su instalación, esperas mientras se instala todo, por ultimo reinicias tu computadora ara aplicar la instalación y listo. De preferencia lo deberías usar en una máquina virtual.
+12.	¿Qué es una máquina virtual?
+Es un software capaz de poder crear y cargar en su interior otro sistema operativo diferente del que tienes en tu ordenador.
+13.	¿Qué es Docker?
+Es un software que ayuda a la creación y uso de contenedores de Linux, por medio del kernel de Linux y la función de este.
+14.	¿Qué es la computación en la nube?
+Es una tecnología que nos permite poder acceder remotamente a softwares, almacenamiento y procesamiento de datos a través de internet, sin necesidad de estar conectados a nuestra computadora personal, por lo que podemos manipular contenido que se encuentre dentro de esta.
+
+Observaciones
+-Realizar esta práctica me pareció entretenido, ya que nunca había tenido como tarea o como trabajo de clase el tener que buscar cosas que fueran de mi agrado y que con mucho entusiasmo realizaría.
+Conclusiones
+-El investigar acerca de temas de los cuales conocía muy poco, me ayudo a poder expandir mi conocimiento a nuevas áreas de interés.
+-Conocer acerca de los temas investigados en clase, puede ayudarnos a mejor y tener una mejor percepción sobre la tecnología y software que usamos comúnmente hoy en día, y que sin embargo no notamos a simple vista toda la importancia y complejidad que existe detrás de ellos.
